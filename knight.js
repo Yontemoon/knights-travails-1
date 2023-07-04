@@ -35,4 +35,4 @@ function knightMoves([x, y], [a, b]) {
     console.log(pos);
   });
 }
-knightMoves([3, 3], [4, 3]);
+knightMoves([3, 3], [4, 5]);
